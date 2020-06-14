@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoRental_Jass", "VideoRental_Jass\VideoRental_Jass.csproj", "{11316CFD-3070-4204-A422-EF87348C0F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_Jass", "UnitTestProject_Jass\UnitTestProject_Jass.csproj", "{CF0186B8-C379-4223-9DF2-228914975ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11316CFD-3070-4204-A422-EF87348C0F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11316CFD-3070-4204-A422-EF87348C0F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11316CFD-3070-4204-A422-EF87348C0F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11316CFD-3070-4204-A422-EF87348C0F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0186B8-C379-4223-9DF2-228914975ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0186B8-C379-4223-9DF2-228914975ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0186B8-C379-4223-9DF2-228914975ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0186B8-C379-4223-9DF2-228914975ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E856C8F-D141-4937-82B4-2C84462C1500}
+	EndGlobalSection
+EndGlobal
